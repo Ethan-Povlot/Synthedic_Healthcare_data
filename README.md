@@ -1,6 +1,5 @@
 # Synthedic_Healthcare_data
-This is a file that creates highly accurate healthcare data for dental, professional and pharmacy data.
-These files do not contain files that can be used to use these python files unfortunantly.
-These files have complex files can be used to create complete healthcare claims to find fraud waste and abuse in claims for demos and model development.
+This folder has three python files that can create the example outputs that also exist in this folder.  These python files create complex and highly realistic healthcare claims that are used for demos and product development to find and remove fraud, waste, and abuse.  There are a variety of different columns to match true healthcare claims.
 
-If you have any questions feel free to reach out.
+If you have any questions, feel free to reach out.
+
